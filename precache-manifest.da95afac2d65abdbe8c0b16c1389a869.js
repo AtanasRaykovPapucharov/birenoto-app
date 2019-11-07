@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84fb592b307adbdb56ae6608476195a4",
+    "revision": "ce8d4ff058e5792fe874ca3530d34235",
     "url": "/index.html"
   },
   {
-    "revision": "24f541f97e58befdac62",
-    "url": "/static/css/main.9b4a6c51.chunk.css"
+    "revision": "76027d2f9c58fc61fec4",
+    "url": "/static/css/main.07c3b86a.chunk.css"
   },
   {
-    "revision": "71429b8ff1a6155e678c",
-    "url": "/static/js/2.d02adc07.chunk.js"
+    "revision": "74d70ace556455011524",
+    "url": "/static/js/2.cab55abd.chunk.js"
   },
   {
-    "revision": "2919d8309f4b96f0450d",
-    "url": "/static/js/3.c70d3dbd.chunk.js"
+    "revision": "731cca82adba1f6f6832",
+    "url": "/static/js/3.88082c2c.chunk.js"
   },
   {
-    "revision": "24f541f97e58befdac62",
-    "url": "/static/js/main.c37e1f53.chunk.js"
+    "revision": "76027d2f9c58fc61fec4",
+    "url": "/static/js/main.c5540535.chunk.js"
   },
   {
-    "revision": "895c07dcb96646c8fdc9",
-    "url": "/static/js/runtime~main.0f52291d.js"
+    "revision": "da8aac6acb5b459a5dbf",
+    "url": "/static/js/runtime~main.b7ba7d8a.js"
   },
   {
     "revision": "3aca071882c3cc963d0313f6f0187a19",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d2aae9fc160cffe45df6f422e9b7432",
     "url": "/static/media/Palivec.6d2aae9f.png"
+  },
+  {
+    "revision": "0a33b9a82daf09a027d1a921f977d239",
+    "url": "/static/media/Palivec42.0a33b9a8.png"
   },
   {
     "revision": "c79710ca9c72eddc0216c8035ae4a514",
@@ -88,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg-home.399725d1.jpg"
   },
   {
-    "revision": "63faf6a930923da3549cf83022b6d8c9",
-    "url": "/static/media/bohemian.63faf6a9.png"
-  },
-  {
     "revision": "e4f9163aadb79d5f74d16f0fd30afe35",
     "url": "/static/media/bouquet.e4f9163a.jpg"
+  },
+  {
+    "revision": "df6aa0fe6c8e36e723c90bc54561003e",
+    "url": "/static/media/bronze.df6aa0fe.png"
   },
   {
     "revision": "28215cc46413dc0c28c4c549beb65ee6",
@@ -110,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e7536c2a0aa3a184d4086c7e0a56e85c",
     "url": "/static/media/celia.e7536c2a.png"
+  },
+  {
+    "revision": "d94653bd4adcdb6af4f56ccf1749826c",
+    "url": "/static/media/cernahora-rebajas.d94653bd.png"
   },
   {
     "revision": "d2a4c9ea69160c143ae5e937b7d160e8",
@@ -148,6 +156,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/drak.9217faaf.png"
   },
   {
+    "revision": "dadc703ea55f3879a2b26d93ff3079be",
+    "url": "/static/media/dudak-rebajas.dadc703e.png"
+  },
+  {
     "revision": "fc740fc9789cd731b3a334cb4b24976c",
     "url": "/static/media/dudak_svanda.fc740fc9.png"
   },
@@ -160,12 +172,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gb.d87f3776.svg"
   },
   {
+    "revision": "880891a6f3febd99a69249b7d83c94ab",
+    "url": "/static/media/granat.880891a6.png"
+  },
+  {
     "revision": "f877b9af5a6d95730680a124290e9b65",
     "url": "/static/media/granat.f877b9af.png"
   },
   {
     "revision": "b4cda7ed0faa2204dc2540b8697e0d1e",
     "url": "/static/media/green.b4cda7ed.webp"
+  },
+  {
+    "revision": "6c19e7815525a4f24cc1250d5cc4cddf",
+    "url": "/static/media/herold-rebajas1.6c19e781.png"
   },
   {
     "revision": "b05cb9889837d82e79cfc22e8d018205",
@@ -308,6 +328,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/rezana-desitka.9ff8ea40.webp"
   },
   {
+    "revision": "8f1bdba0bb3add101dd6dd2ec9ca095b",
+    "url": "/static/media/rezany.8f1bdba0.png"
+  },
+  {
     "revision": "ada7b8050554a0a2b5040132a1697682",
     "url": "/static/media/rytir-f.ada7b805.png"
   },
@@ -346,6 +370,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d870f4f9aed12a394695b2bca2fa1e21",
     "url": "/static/media/svijany-girl2.d870f4f9.jpg"
+  },
+  {
+    "revision": "4e9f45dee25527626cdb0b6c6f2df19c",
+    "url": "/static/media/svijany-rebajas.4e9f45de.png"
   },
   {
     "revision": "398b70dc09a388c9ef57a39ffa404c62",
