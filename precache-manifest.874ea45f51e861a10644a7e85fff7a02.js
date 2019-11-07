@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce8d4ff058e5792fe874ca3530d34235",
+    "revision": "f35dc012e67144db87974445d7ded004",
     "url": "/index.html"
   },
   {
-    "revision": "76027d2f9c58fc61fec4",
+    "revision": "9e2b1285bfd8d6e24e89",
     "url": "/static/css/main.07c3b86a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.88082c2c.chunk.js"
   },
   {
-    "revision": "76027d2f9c58fc61fec4",
-    "url": "/static/js/main.c5540535.chunk.js"
+    "revision": "9e2b1285bfd8d6e24e89",
+    "url": "/static/js/main.f40e2a05.chunk.js"
   },
   {
     "revision": "da8aac6acb5b459a5dbf",
@@ -116,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/celia.e7536c2a.png"
   },
   {
-    "revision": "d94653bd4adcdb6af4f56ccf1749826c",
-    "url": "/static/media/cernahora-rebajas.d94653bd.png"
+    "revision": "c439c6decf6717a07a831ad2034231e5",
+    "url": "/static/media/cernahora-rebajas1.c439c6de.png"
   },
   {
     "revision": "d2a4c9ea69160c143ae5e937b7d160e8",
