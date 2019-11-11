@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f35dc012e67144db87974445d7ded004",
+    "revision": "f056453b395d4ba8ef747538333c7938",
     "url": "/index.html"
   },
   {
-    "revision": "9e2b1285bfd8d6e24e89",
-    "url": "/static/css/main.07c3b86a.chunk.css"
+    "revision": "50d27ea8ff49a54a9470",
+    "url": "/static/css/main.3618a4df.chunk.css"
   },
   {
-    "revision": "74d70ace556455011524",
-    "url": "/static/js/2.cab55abd.chunk.js"
+    "revision": "d6e2767b812879b313b5",
+    "url": "/static/js/2.7e899ef0.chunk.js"
   },
   {
-    "revision": "731cca82adba1f6f6832",
-    "url": "/static/js/3.88082c2c.chunk.js"
+    "revision": "ef3d7f478ea1a50f7a7f",
+    "url": "/static/js/3.d8e8740e.chunk.js"
   },
   {
-    "revision": "9e2b1285bfd8d6e24e89",
-    "url": "/static/js/main.f40e2a05.chunk.js"
+    "revision": "50d27ea8ff49a54a9470",
+    "url": "/static/js/main.a1a04416.chunk.js"
   },
   {
-    "revision": "da8aac6acb5b459a5dbf",
-    "url": "/static/js/runtime~main.b7ba7d8a.js"
+    "revision": "06c851988a32e807a5ec",
+    "url": "/static/js/runtime~main.83379f01.js"
   },
   {
     "revision": "3aca071882c3cc963d0313f6f0187a19",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/green.b4cda7ed.webp"
   },
   {
-    "revision": "6c19e7815525a4f24cc1250d5cc4cddf",
-    "url": "/static/media/herold-rebajas1.6c19e781.png"
+    "revision": "55b70f64c56ebacb2110e2bb7374b1c9",
+    "url": "/static/media/herold-rebajas.55b70f64.png"
   },
   {
     "revision": "b05cb9889837d82e79cfc22e8d018205",
@@ -374,6 +374,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e9f45dee25527626cdb0b6c6f2df19c",
     "url": "/static/media/svijany-rebajas.4e9f45de.png"
+  },
+  {
+    "revision": "970f1273dcb8b77c623e97c3399e3930",
+    "url": "/static/media/swisseph.970f1273.node"
   },
   {
     "revision": "398b70dc09a388c9ef57a39ffa404c62",
