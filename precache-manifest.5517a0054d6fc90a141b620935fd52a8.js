@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a005ac59a8982b39f3ed22e477bff8e",
+    "revision": "63cf85dbf437204ab2b391f3d231f7a7",
     "url": "/index.html"
   },
   {
-    "revision": "54801f1e4aa5235ee65d",
-    "url": "/static/css/main.3618a4df.chunk.css"
+    "revision": "cce0cec8e61e605f1296",
+    "url": "/static/css/main.6faabdcc.chunk.css"
   },
   {
-    "revision": "d6e2767b812879b313b5",
-    "url": "/static/js/2.7e899ef0.chunk.js"
+    "revision": "3e2e4171bcae8042b773",
+    "url": "/static/js/2.d4a54199.chunk.js"
   },
   {
-    "revision": "ef3d7f478ea1a50f7a7f",
-    "url": "/static/js/3.d8e8740e.chunk.js"
+    "revision": "9d0148da0eee3701ebfe",
+    "url": "/static/js/3.493cfb1c.chunk.js"
   },
   {
-    "revision": "54801f1e4aa5235ee65d",
-    "url": "/static/js/main.b6293e10.chunk.js"
+    "revision": "cce0cec8e61e605f1296",
+    "url": "/static/js/main.4880fd34.chunk.js"
   },
   {
-    "revision": "06c851988a32e807a5ec",
-    "url": "/static/js/runtime~main.83379f01.js"
+    "revision": "b9d98c1d9063a2aa9788",
+    "url": "/static/js/runtime~main.1e5cd733.js"
   },
   {
     "revision": "3aca071882c3cc963d0313f6f0187a19",
@@ -38,6 +38,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d61f1f87fd74161eb339f5c89ae09fa9",
     "url": "/static/media/450.d61f1f87.png"
+  },
+  {
+    "revision": "4719e99056737cd2fa4119160bea55af",
+    "url": "/static/media/5.4719e990.jpg"
+  },
+  {
+    "revision": "c89fc45e5f04cd143ded81bf1e61f339",
+    "url": "/static/media/6.c89fc45e.jpg"
   },
   {
     "revision": "321a6a8013e9c199224599228d4571e2",
@@ -64,6 +72,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Svijany.d3109b49.png"
   },
   {
+    "revision": "456a0fd589726f6430f16044ca58e0dd",
+    "url": "/static/media/ale-vs-lager.456a0fd5.jpg"
+  },
+  {
+    "revision": "80cff0d043b914a234c1afe59b6b3d07",
+    "url": "/static/media/ales-vs-lagers-2.80cff0d0.png"
+  },
+  {
     "revision": "96a9a176f5a164790e78d6d54a55bb75",
     "url": "/static/media/bakalar-beers.96a9a176.jpg"
   },
@@ -76,8 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/baron.367bf1db.png"
   },
   {
+    "revision": "856778b37ccf78d263197a07a833a494",
+    "url": "/static/media/barrel-aging.856778b3.jpg"
+  },
+  {
     "revision": "0ae20417c40bf352b4d225731be833d7",
     "url": "/static/media/beer-bouquet.0ae20417.jpg"
+  },
+  {
+    "revision": "5c0b234fbabe9c0270ebdef2a58203fb",
+    "url": "/static/media/beer-ingredients.5c0b234f.jpg"
   },
   {
     "revision": "97ae669000078f5a7732d8443f2ca2f4",
@@ -96,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bouquet.e4f9163a.jpg"
   },
   {
-    "revision": "df6aa0fe6c8e36e723c90bc54561003e",
-    "url": "/static/media/bronze.df6aa0fe.png"
+    "revision": "cfc346f28a444524e951774fb1e57aa0",
+    "url": "/static/media/bronze1.cfc346f2.png"
   },
   {
     "revision": "28215cc46413dc0c28c4c549beb65ee6",
@@ -112,12 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/celia-logo.a4ea89b6.png"
   },
   {
-    "revision": "e7536c2a0aa3a184d4086c7e0a56e85c",
-    "url": "/static/media/celia.e7536c2a.png"
+    "revision": "23ecace41b5352bb6c3885f00ddbe980",
+    "url": "/static/media/celia.23ecace4.jpg"
   },
   {
-    "revision": "c439c6decf6717a07a831ad2034231e5",
-    "url": "/static/media/cernahora-rebajas1.c439c6de.png"
+    "revision": "e7536c2a0aa3a184d4086c7e0a56e85c",
+    "url": "/static/media/celia.e7536c2a.png"
   },
   {
     "revision": "d2a4c9ea69160c143ae5e937b7d160e8",
@@ -156,6 +180,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/drak.9217faaf.png"
   },
   {
+    "revision": "a009156053877e2bf562b32b6f09da3d",
+    "url": "/static/media/drink.a0091560.jpg"
+  },
+  {
     "revision": "dadc703ea55f3879a2b26d93ff3079be",
     "url": "/static/media/dudak-rebajas.dadc703e.png"
   },
@@ -164,12 +192,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dudak_svanda.fc740fc9.png"
   },
   {
+    "revision": "77b8838f4ec44fa38f4054f27c631868",
+    "url": "/static/media/dvanactka-tmava.77b8838f.png"
+  },
+  {
     "revision": "0cb0a4f66fc43d53361a49fa1a5ba47c",
     "url": "/static/media/exportni.0cb0a4f6.png"
   },
   {
     "revision": "d87f3776a66dde7ee1516338875a4faa",
     "url": "/static/media/gb.d87f3776.svg"
+  },
+  {
+    "revision": "0d76f930590b78e1a778b49bcf07623c",
+    "url": "/static/media/girl3.0d76f930.jpg"
   },
   {
     "revision": "880891a6f3febd99a69249b7d83c94ab",
@@ -194,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "752eb72c3ea95e8b27e7651ec8a786ec",
     "url": "/static/media/keg-beer-tap.752eb72c.jpg"
+  },
+  {
+    "revision": "3004913ccd992b59acd17dcd231ff784",
+    "url": "/static/media/key-ale-and-lager-styles.3004913c.png"
   },
   {
     "revision": "66f64a3f3976c787b7a00afb19f30a94",
@@ -340,8 +380,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/rytir.58918af3.png"
   },
   {
-    "revision": "51e225097de77429113290f582bb3657",
-    "url": "/static/media/shop.51e22509.jpg"
+    "revision": "8e095f92d38ed6b30bf288284a876539",
+    "url": "/static/media/shop1.8e095f92.jpg"
   },
   {
     "revision": "4189c2b738ae97c4262ebf3e74c21721",
@@ -374,10 +414,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4e9f45dee25527626cdb0b6c6f2df19c",
     "url": "/static/media/svijany-rebajas.4e9f45de.png"
-  },
-  {
-    "revision": "970f1273dcb8b77c623e97c3399e3930",
-    "url": "/static/media/swisseph.970f1273.node"
   },
   {
     "revision": "398b70dc09a388c9ef57a39ffa404c62",
