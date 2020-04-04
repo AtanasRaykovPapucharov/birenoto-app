@@ -1,0 +1,2 @@
+(this.webpackJsonpbirenoto=this.webpackJsonpbirenoto||[]).push([[3],{187:function(t,e,n){"use strict";n.r(e);var s=n(2),a=n(3),i=n(5),r=n(4),o=n(6),c=n(0),p=n.n(c),h=function(t){function e(){return Object(s.a)(this,e),Object(i.a)(this,Object(r.a)(e).apply(this,arguments))}return Object(o.a)(e,t),Object(a.a)(e,[{key:"render",value:function(){return p.a.createElement("img",{className:"bottle",src:this.props.path,alt:this.props.name,width:this.props.size+"%"})}}]),e}(c.Component);e.default=h}}]);
+//# sourceMappingURL=3.ca1a1be3.chunk.js.map
